@@ -1,0 +1,8 @@
+# biar environment dan cache gak keupload
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.DS_Store
